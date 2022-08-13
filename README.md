@@ -4,6 +4,8 @@
 
 > Developed by: Vieira's Store
 
+> Framework: vRPex ┃ Creative
+
 
 > Após colocar uma skin e quizer voltar para skin normal utilizar os comandos:
 
