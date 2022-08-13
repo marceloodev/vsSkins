@@ -1,7 +1,0 @@
-Para voltar para a skin normal utilize os comandos abaixo.
-
-Voltar para personagem masculino: skin id mp_m_freemode_01
-
-Voltar para personagem feminino: skin id mp_f_freemode_01
-
-Ass: Noahzinho#2013 (Vieira's Store)
