@@ -2,7 +2,7 @@
 
 > Um pack de skins de bebes/crianças para o FiveM
 
-> Developed by: Vieira's Store | EuNoah#8056
+> Developed by: Vieira's Store
 
 > Framework: vRPex ┃ Creative
 
