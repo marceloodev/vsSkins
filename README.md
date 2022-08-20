@@ -18,6 +18,6 @@
 
 # Preview
 
-https://www.youtube.com/watch?v=UdtGxifTXbU&t=67s
+> https://www.youtube.com/watch?v=UdtGxifTXbU&t=67s
 
-![image](https://user-images.githubusercontent.com/98975919/185752465-b3bf0074-d8bb-4843-8660-6e07be54a4a2.png)
+> ![image](https://user-images.githubusercontent.com/98975919/185752465-b3bf0074-d8bb-4843-8660-6e07be54a4a2.png)
