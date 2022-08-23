@@ -1,4 +1,4 @@
-# vsSkins
+# vsSkins!
 
 > Um pack de skins de bebes/crianças para o FiveM
 
@@ -16,7 +16,7 @@
 
 > Caso não funcione na sua base chamar: EuNoah#8056 no discord.
 
-# Preview
+# Preview!
 
 > https://www.youtube.com/watch?v=UdtGxifTXbU&t=67s
 
