@@ -42,7 +42,7 @@ end)
 -------------------------------------------------------------------------
 RegisterCommand('skin',function(source,args,rawCommand)
     local user_id = vRP.getUserId(source)
-    if vRP.terPemissao(user_id,"dono.permissao") then
+    if vRP.hasPermission(user_id,"dono.permissao") then
         if parseInt(args[1]) then
             local nplayer = vRP.getUserSource(parseInt(args[1]))
             if nplayer then
@@ -81,7 +81,7 @@ end)
 -------------------------------------------------------------------------
 RegisterCommand("skin",function(source,args,rawCommand)
     local user_id = vRP.getUserId(source)
-	if vRP.hasPermission(user_id,"Admin") then
+	if vRP.hasGroup(user_id,"Admin") then
 		TriggerClientEvent("skinmenu",args[1],args[2])
 		TriggerClientEvent("Notify",source,"amarelo","Setada a skin <b>"..args[2].."</b> no passaporte <b>"..parseInt(args[1]).."</b>.",5000)
     end
