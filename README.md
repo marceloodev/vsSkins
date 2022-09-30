@@ -15,6 +15,8 @@
 
 # Dependências
 
+VRPEX
+
 ```lua
 -------------------------------------------------------------------------
 -- /SKIN - COLOCAR EM QUALQUER CLIENT.LUA
