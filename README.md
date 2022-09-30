@@ -57,12 +57,12 @@ end)
 > Creative
 
 ```lua
-  AGUARDE
+  Estou fazendo. Previsão de termino: 29/09/22 22:30
 ```
 
 
 ```lua
- AGUARDE
+ Estou fazendo. Previsão de termino: 29/09/22 22:30
 ```
 
 # Preview!
