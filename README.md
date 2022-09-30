@@ -6,7 +6,6 @@
 
 > Framework: vRPex ┃ Creative
 
-
 > Após colocar uma skin e quizer voltar para skin normal utilizar os comandos:
 
 > Voltar para personagem masculino: /skin id mp_m_freemode_01
@@ -87,6 +86,10 @@ RegisterCommand("skin",function(source,args,rawCommand)
     end
 end)
 ```
+
+# Atenção
+
+> Após voce extrair o arquivo vsSkins-main renomear para vsSkins.
 
 # Preview!
 
