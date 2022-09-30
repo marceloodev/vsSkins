@@ -15,7 +15,7 @@
 
 # Dependências
 
-VRPEX
+> vRP/vRPex
 
 ```lua
 -------------------------------------------------------------------------
@@ -53,6 +53,8 @@ RegisterCommand('skin',function(source,args,rawCommand)
     end
 end)
 ```
+
+> Creative
 
 # Preview!
 
