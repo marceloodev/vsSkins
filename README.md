@@ -57,12 +57,35 @@ end)
 > Creative
 
 ```lua
-  Estou fazendo. Previsão de termino: 29/09/22 22:30
+-------------------------------------------------------------------------
+-- /SKIN - COLOCAR EM QUALQUER CLIENT.LUA
+-------------------------------------------------------------------------
+RegisterNetEvent("skinmenu")
+AddEventHandler("skinmenu",function(mhash)
+    while not HasModelLoaded(mhash) do
+        RequestModel(mhash)
+        Citizen.Wait(10)
+    end
+
+    if HasModelLoaded(mhash) then
+        SetPlayerModel(PlayerId(),mhash)
+        SetModelAsNoLongerNeeded(mhash)
+    end
+end)
 ```
 
 
 ```lua
- Estou fazendo. Previsão de termino: 29/09/22 22:30
+-------------------------------------------------------------------------
+-- /SKIN - COLOCAR EM QUALQUER SERVER.LUA (Obs: Configurar permissão)
+-------------------------------------------------------------------------
+RegisterCommand("skin",function(source,args,rawCommand)
+    local user_id = vRP.getUserId(source)
+	if vRP.hasPermission(user_id,"Admin") then
+		TriggerClientEvent("skinmenu",args[1],args[2])
+		TriggerClientEvent("Notify",source,"amarelo","Setada a skin <b>"..args[2].."</b> no passaporte <b>"..parseInt(args[1]).."</b>.",5000)
+    end
+end)
 ```
 
 # Preview!
