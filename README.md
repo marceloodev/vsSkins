@@ -17,7 +17,7 @@
 
 ```lua
 -------------------------------------------------------------------------
--- SKIN
+-- /SKIN - COLOCAR EM QUALQUER CLIENT.LUA
 -------------------------------------------------------------------------
 RegisterNetEvent("skinmenu")
 AddEventHandler("skinmenu",function(mhash)
@@ -36,7 +36,7 @@ end)
 
 ```lua
 -------------------------------------------------------------------------
--- SKIN
+-- /SKIN - COLOCAR EM QUALQUER SERVER.LUA (Obs: Configurar permissão)
 -------------------------------------------------------------------------
 RegisterCommand('skin',function(source,args,rawCommand)
     local user_id = vRP.getUserId(source)
