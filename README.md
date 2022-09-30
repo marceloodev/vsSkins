@@ -90,6 +90,8 @@ end)
 
 # Preview!
 
+> Para ver o video/preview clicar em cima do play.
+
 <a href="https://www.youtube.com/watch?v=UdtGxifTXbU&t=42s" target="blank">
       <img align="center" src="https://cdn.discordapp.com/attachments/1025184841370714183/1025205129101717565/unknown.png"/>
 </a>
