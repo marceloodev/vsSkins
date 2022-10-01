@@ -4,7 +4,7 @@
 
 > Developed by: Vieira's Store
 
-> Framework: vRPex ┃ Creative
+> Framework: vRP ┃ vRPex ┃ Creative
 
 # Dependências
 
