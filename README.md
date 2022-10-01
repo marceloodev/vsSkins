@@ -85,7 +85,7 @@ end)
 
 > Após voce extrair o arquivo vsSkins-main renomear para vsSkins.
 
-> Após colocar uma skin e quizer voltar para skin normal utilizar os comandos:
+> Após colocar uma skin e quiser voltar para skin normal utilizar os comandos:
 
 > Voltar para personagem masculino: /skin id mp_m_freemode_01
 
