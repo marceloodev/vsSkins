@@ -1,4 +1,4 @@
-# vsSkins!
+# vsSkins
 
 > Um pack de skins de bebes/crianças para o FiveM
 
@@ -91,7 +91,7 @@ end)
 
 > Voltar para personagem feminino: /skin id mp_f_freemode_01
 
-# Preview!
+# Preview
 
 > Para ver o video/preview clicar em cima do play.
 
