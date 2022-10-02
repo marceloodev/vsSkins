@@ -100,5 +100,9 @@ end)
 </a>
 
 # Suporte
+Você pode buscar suporte em nosso https://discord.gg/C5tXDsZhVJ. 🆘
 
-> Caso não funcione na sua base chamar: EuNoah#8056 no discord.
+# Contato
+- Comercial: contato.vsdev@gmail.com 🧾
+- Discord: https://discord.gg/C5tXDsZhVJ 🧾
+- Website: https://sites.google.com/view/vieiras-store/home 🧾
