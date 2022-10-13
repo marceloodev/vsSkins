@@ -93,6 +93,8 @@ end)
 
 # Preview
 
+> Beta version 🟡
+
 > Para ver o video/preview clicar em cima do play.
 
 <a href="https://www.youtube.com/watch?v=UdtGxifTXbU&t=42s" target="blank">
