@@ -93,7 +93,7 @@ end)
 
 # Preview
 
-> Beta version 🟡
+> Version: Stable 🟢
 
 > Para ver o video/preview clicar em cima do play.
 
